@@ -1,2 +1,0 @@
-# felizcumplevivi
-pagina de cumpleaños
