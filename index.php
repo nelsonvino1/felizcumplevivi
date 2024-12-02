@@ -146,7 +146,7 @@
 <body>
 
     <h1 id="welcome-text">¡Bienvenida...!!! <span id="name">Vivian</span>!</h1>
-    <button class="btn-start btn-start-main" onclick="window.location.href = 'cumpleanos.php';">¡Toca para comenzar!</button>
+    <button class="btn-start btn-start-main" onclick="window.location.href = 'cumpleanos.html';">¡Toca para comenzar!</button>
 
     <!-- Contenedor para el video y el nuevo botón -->
     <div class="video-container">
